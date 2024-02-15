@@ -1,0 +1,99 @@
+h1{
+    background-color: lightpink;
+    color: blue;
+    text-align: center;
+}
+
+a{
+    color: royaleblue;
+}
+
+nav{
+    background-color: aliceblue;
+    color: royalblue;
+    text-align: center;
+    
+}
+
+a.titol{
+    color: blue;
+}
+
+a:hover{
+    background-color: yellow;
+    color: white;
+}
+a.azul:hover{
+    background-color: yellow;
+    color: white;
+}
+a.rojo:hover{
+    background-color: yellow;
+    color: white;
+}
+a.titol:hover{
+    background-color: yellow;
+    color: white;
+}
+div.Contacte{
+    width: 200px;
+    height: 200px;
+    background-color: salmon;
+    color: blue;
+    display: inline-block;
+}
+div.Edicions{
+    width: 200px;
+    height: 200px;
+    background-color: salmon;
+    color: blue;
+    display: inline-block;
+}
+div.Nominats{
+width: 200px;
+height: 200px;
+background-color: lightseagreen;
+color: red;
+display: inline-block;
+}
+
+footer{
+    background-color: yellow;
+    text-align: center;
+    color: blue;
+   
+}
+div.form{
+    background-color: lightsalmon;
+    color: blue;
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+}
+p{
+    display: inline;
+}
+div.pelis{
+    background-color: lightgreen;
+    color: blue;
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    float: right;
+}
+h2{
+    counter-reset: none;
+}
+pre::before{
+    counter-increment: initial;
+}
+
+pre{
+    color: yellow;
+}
+a.azul{
+    color: blue;
+}
+a.rojo{
+    color: red;
+}
